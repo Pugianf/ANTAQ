@@ -1,38 +1,38 @@
-ï»¿cdinstalacaoportuaria;nome;tipo;cdbigrama;cdtrigrama;cdterminal
-BRADR;Angra dos Reis Â ;Porto Organizado;BR;ADR;NULL
+cdinstalacaoportuaria;nome;tipo;cdbigrama;cdtrigrama;cdterminal
+BRADR;Angra dos Reis  ;Porto Organizado;BR;ADR;NULL
 BRANT;Antonina;Porto Organizado;BR;ANT;NULL
-BRARB;Aratu Â ;Porto Organizado;BR;ARB;NULL
-BRARE;Areia Branca Â ;Porto Organizado;BR;ARE;NULL
-BRBEL;BelÃ©m Â ;Porto Organizado;BR;BEL;NULL
-BRCDO;Cabedelo Â ;Porto Organizado;BR;CDO;NULL
+BRARB;Aratu  ;Porto Organizado;BR;ARB;NULL
+BRARE;Areia Branca  ;Porto Organizado;BR;ARE;NULL
+BRBEL;Belém  ;Porto Organizado;BR;BEL;NULL
+BRCDO;Cabedelo  ;Porto Organizado;BR;CDO;NULL
 BRETL;Estrela;Porto Organizado;BR;ETL;NULL
-BRFNO;FornoÂ ;Porto Organizado;BR;FNO;NULL
-BRFOR;Fortaleza Â ;Porto Organizado;BR;FOR;NULL
-BRIOS;IlhÃ©us Â ;Porto Organizado;BR;IOS;NULL
-BRIBB;Imbituba Â ;Porto Organizado;BR;IBB;NULL
-BRIGI;ItaguaÃ­ (Sepetiba)Â ;Porto Organizado;BR;IGI;NULL
-BRITJ;ItajaÃ­Â ;Porto Organizado;BR;ITJ;NULL
+BRFNO;Forno ;Porto Organizado;BR;FNO;NULL
+BRFOR;Fortaleza  ;Porto Organizado;BR;FOR;NULL
+BRIOS;Ilhéus  ;Porto Organizado;BR;IOS;NULL
+BRIBB;Imbituba  ;Porto Organizado;BR;IBB;NULL
+BRIGI;Itaguaí (Sepetiba) ;Porto Organizado;BR;IGI;NULL
+BRITJ;Itajaí ;Porto Organizado;BR;ITJ;NULL
 BRIQI;Itaqui;Porto Organizado;BR;IQI;NULL
 BRLAG;Laguna;Porto Organizado;BR;LAG;NULL
-BRMCP;MacapÃ¡;Porto Organizado;BR;MCP;NULL
-BRMCZ;MaceiÃ³;Porto Organizado;BR;MCZ;NULL
+BRMCP;Macapá;Porto Organizado;BR;MCP;NULL
+BRMCZ;Maceió;Porto Organizado;BR;MCZ;NULL
 BRMAO;Manaus;Porto Organizado;BR;MAO;NULL
 BRNAT;Natal;Porto Organizado;BR;NAT;NULL
-BRNTR;NiterÃ³i Â ;Porto Organizado;BR;NTR;NULL
-BRPNG;ParanaguÃ¡;Porto Organizado;BR;PNG;NULL
-BRPET;Pelotas Â ;Porto Organizado;BR;PET;NULL
-BRPOA;Porto Alegre Â ;Porto Organizado;BR;POA;NULL
-BRPVH;Porto Velho Â ;Porto Organizado;BR;PVH;NULL
-BRREC;Recife Â ;Porto Organizado;BR;REC;NULL
-BRRIO;Rio de JaneiroÂ ;Porto Organizado;BR;RIO;NULL
-BRRIG;Rio Grande Â ;Porto Organizado;BR;RIG;NULL
-BRSSA;SalvadorÂ ;Porto Organizado;BR;SSA;NULL
-BRSTM;SantarÃ©m Â ;Porto Organizado;BR;STM;NULL
-BRSSZ;Santos Â ;Porto Organizado;BR;SSZ;NULL
-BRSSO;SÃ£o SebastiÃ£oÂ ;Porto Organizado;BR;SSO;NULL
-BRSFS;SÃ£o Francisco do Sul Â ;Porto Organizado;BR;SFS;NULL
-BRSUA;Suape Â ;Porto Organizado;BR;SUA;NULL
-BRVDC;Vila do CondeÂ ;Porto Organizado;BR;VDC;NULL
-BRVIX;VitÃ³ria Â ;Porto Organizado;BR;VIX;NULL
+BRNTR;Niterói  ;Porto Organizado;BR;NTR;NULL
+BRPNG;Paranaguá;Porto Organizado;BR;PNG;NULL
+BRPET;Pelotas  ;Porto Organizado;BR;PET;NULL
+BRPOA;Porto Alegre  ;Porto Organizado;BR;POA;NULL
+BRPVH;Porto Velho  ;Porto Organizado;BR;PVH;NULL
+BRREC;Recife  ;Porto Organizado;BR;REC;NULL
+BRRIO;Rio de Janeiro ;Porto Organizado;BR;RIO;NULL
+BRRIG;Rio Grande  ;Porto Organizado;BR;RIG;NULL
+BRSSA;Salvador ;Porto Organizado;BR;SSA;NULL
+BRSTM;Santarém  ;Porto Organizado;BR;STM;NULL
+BRSSZ;Santos  ;Porto Organizado;BR;SSZ;NULL
+BRSSO;São Sebastião ;Porto Organizado;BR;SSO;NULL
+BRSFS;São Francisco do Sul  ;Porto Organizado;BR;SFS;NULL
+BRSUA;Suape  ;Porto Organizado;BR;SUA;NULL
+BRVDC;Vila do Conde ;Porto Organizado;BR;VDC;NULL
+BRVIX;Vitória  ;Porto Organizado;BR;VIX;NULL
 BRPCL;Barra do Riacho;Porto Organizado;BR;PCL;NULL
 BRQDB;Cachoeira do Sul;Porto Organizado;BR;QDB;NULL
