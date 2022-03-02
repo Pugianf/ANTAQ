@@ -1,0 +1,946 @@
+﻿IDTerminal;NOTerminal
+0;Não Informado
+3;Terminal de Passageiros
+4;Píer Petroleiro
+11;Cais Público
+12;Píer Público
+13;Copesul
+14;Adubos Trevo
+15;Tergrasa
+16;Termasa
+17;Ceval
+18;Bianchini
+19;Terminal Bunge
+20;TECON
+21;Distrito Naval
+31;TUPs Santos
+55;TECON
+56;Cais Público
+57;TECON
+61;Terminal Siderúrgico
+64;Cais Público
+73;Cais Público
+77;Cais Público
+78;Cais Marcilio Dias
+79;Cais Mauá
+80;Cais Navegantes
+101;Cais Público
+105;Cais Público
+106;TUP Guamaré - PETROBRAS
+108;Cais Público
+109;TEBAR
+110;Barra do Riacho
+111;Cais Público
+112;Cais Público
+113;Cais de Uso da CODERN
+116;Roadway Cais Público
+117;Rabelo Indústria e Comércio LTDA
+118;Tocantins Mineração S/A
+119;Silnave Navegação S/A
+120;Yara Fertilizantes
+125;Terminal de Multiplo Uso 1
+126;Terminal Açucareiro
+127;Terminal de Granéis Líquidos
+128;Terminal Mita
+129;Barra do Rio Terminal Portuário
+130;Terminal Portuário de Presidente Epitácio
+131;Terminal de Barcaças Oceânicas
+132;Terminal Ponta da Montanha
+133;Terminal Portuário Wellstream - TPW
+134;Terminal Aquaviário de São Sebastião (Almirante Barroso)
+135;Itajahy Multi Porto
+136;Bertolini - Santarém
+137;Santa Helena
+138;Bianchini Canoas
+139;Mac Laren Estaleiros
+140;Cargill Agrícola
+141;Terminal Aquaviário de Guamaré
+142;Porto CRA
+143;Bertolini - Belém
+145;Terminal Aquaviário de Madre de Deus
+147;UTC Engenharia
+148;Terminal de Barcaças Luciano Villas Boas Machado
+149;Terminal Marítimo de Ponta da Madeira
+150;Ocrim
+151;Terminal Portuário Porto Pontal - TPPP
+152;Terminal de Tubarão
+153;Terminal Marítimo Privativo de Cubatão - TMPC
+154;Terminal Marítimo Miguel de Oliveira
+155;Ibepar
+156;Terminal Aquaviário da Ilha D'Água
+157;Terminal Aquaviário de Ilha Redonda e Terminal Aquaviário da Ilha Comprida
+158;Terminal Aquaviário de São Francisco do Sul
+159;Belmont
+160;Terminal Marítimo Ponte do Thun
+161;Estaleiro Brasfels
+162;Teporti
+164;Terminal Aquaviário de Niterói
+165;Super Terminais Comércio e Indústria
+166;Terminal Hermasa Navegação da Amazônia
+167;Terminal de Praia Mole
+168;Terminal Sanave de Manaus
+169;Terminal Portuário Privativo da Alumar
+170;Portonave - Terminais Portuários de Navegantes
+171;Terminal Aquaviário de Osório
+172;Terminal Hidroviário de Porto Murtinho
+173;Terminal Docas de Mato Grosso
+174;Terminal Portuário Cotegipe
+175;J. F. de Oliveira - Manaus
+176;Cimento Vencemos
+177;Terminal Marítimo Ponta Ubu
+178;Itaituba Indústria de Cimentos
+179;Terminal Fluvial de Juazeiro
+180;Terminal Trombetas
+181;Terminal Fogás
+182;Terminal Integrador Portuário Luiz Antonio Mesquita - TIPLAM
+183;Terminal Aquaviário de Angra dos Reis
+184;Terminal Aquaviário de Aracaju
+185;Madenorte
+186;Terminal Aquaviário do Norte Capixaba
+187;Bertolini - Santana
+188;Terminal Aquaviário Solimões - Coari
+189;Terminal Porto do Rio Iguaçu
+190;Terminal Navecunha
+191;Terminal Portuário Braskarne
+192;Passarão
+193;Terminal Estaleiro Mauá
+194;Terminal Portuário do Pecém
+195;Porto Engenheiro Zephyrino Lavanère Machado Filho
+196;Robco
+197;Terminal Aquaviário de Manaus
+199;Saladeiro
+200;Trocadeiro
+201;Terminal Braskem
+203;Terminal Marítimo Dow Aratu - Bahia
+204;Porto Jari - Terminal Munguba
+205;Cattalini Terminais Marítimos
+206;Área de Fundeio
+208;Terminal da Ilha Guaíba - TIG
+209;TERFRON
+211;Terminal Marítimo Dow
+212;Terbian - Terminal Bianchini
+213;Yara Brasil Fertilizantes
+214;TMB - Terminal Marítimo de Belmonte
+215;Portocel - Terminal Especializado de Barra do Riacho
+216;Nobara
+217;Brasco Rio
+218;Porto Novo Rio
+219;Porto Murucupi
+220;TERNIUM BR
+223;Terminal Hidroviário Cimbagé
+224;Terminal Fluvial de Juruti
+225;Terminal Privativo Zamin Ferrous Sistema Amapá
+226;Porto Itapoá Terminais Portuários
+227;Terminal Privativo de Imbituba
+228;DP World Santos
+229;Dunas
+230;Carinhoso
+231;Terminal Graneleiro Hermasa
+232;Porto Sobramil
+233;Granel Química Ladário
+234;Terminal Privado Copelmi
+235;Sucocítrico Cutrale
+236;Cosan Lubrificantes e Especialidades
+237;Terminal J. F. de Oliveira de Belém
+238;Terminal Portuário Bunge Alimentos
+239;Moinho Taquariense
+240;Mainardi
+241;Terminal Marítimo Alfandegado Privativo de Uso Misto de Praia Mole
+242;Gerdau Aços Longos
+243;Porto do Açu - Terminal de Minério
+244;Terminal Marítimo Inácio Barbosa - TMIB
+245;Terminal Marítimo Braskem
+246;Brasco Logística Offshore
+247;Terminal Santa Clara
+248;Porto Gregório Curvo
+249;Terminal Marítimo Luiz Fogliatto - Termasa
+250;Keppel Fels
+251;Estaleiro Itajaí S/A
+252;Dow Itajaí
+253;Terminal de Uso Público - Nitport
+258;Área de Fundeio
+259;Terminal de Carga Geral
+260;Terminal Público
+261;TECAR
+262;TEMIN
+264;Terminal de Uso Público - Nitshore
+265;Terminal Roll-On/Off
+266;Moss
+267;Magebrás
+268;Terminal da Equatorial
+269;Terminal de Cargas
+270;Terminal Offshore
+271;Terminal Flexível de GNL da Baía da Guanabara
+272;Terminal Fluvial Caulim
+274;Prysmian
+275;Porto Chibatão
+277;Chibatão Navegação e Comércio
+278;Estaleiro Navship
+282;Estaleiro Rio Grande
+283;Supergasbrás
+284;Oleoplan
+285;CMPC Guaíba
+286;Terminal Aquaviário da Ilha Comprida
+287;Terminal de Gás do Sul - Tergasul
+288;Mearim
+289;Companhia Portuária Vila Velha - CPVV
+290;ATR Logística - Chibatão
+291;Itacal- Itacoatiara Calcários Ltda
+292;Base Ipiranga Santarém
+296;Terminal Intermodal Cargill - Três Lagoas
+297;Porto do Açu - Terminal TMULT e TCAR
+298;Aquavia
+299;AIVEL
+300;Terminal Barão de Teffé
+301;Terminal da Ponta do Félix
+302;Terminal Braskem
+303;Poly Terminais Portuários
+304;Itautinga Manaus
+305;Texaco Manaus
+306;ATEM Manaus
+308;Petrobras Manaus
+310;Texaco Macapá
+311;Majonav
+316;Cáceres
+317;Ladário
+318;Itaituba
+326;Terminal Aquaviário de Barra do Riacho
+327;Estaleiro Atlântico Sul - EAS
+329;Unidade Offshore Techint - UOT
+330;Terminais Fluviais do Brasil
+331;União Transportes
+332;Terminal de Regaiseficação de GNL da Bahia - TRBA
+333;Samalverde
+334;Base de Cruzeiro do Sul - BASUL II
+335;Porto Fluvial de Cruzeiro do Sul
+337;Terminal Portuário Presidente Kennedy
+338;Porto Crai
+339;Porto CPA
+341;Terminal Praça Tiradentes
+342;São Raimundo
+343;Estaleiro Iesa Charqueadas
+344;Estaleiro Quip
+345;Estaleiro Erg1
+346;Estaleiro Erg2
+347;Areal Baronesa
+348;Estaleiro Amazônia Navegações
+352;Terminal de Porto Velho
+353;ATEM PVH
+354;Terminal Amazongás
+356;Base de Caracaraí - BARAC
+357;Porto Sudeste do Brasil
+358;Terminal Portuário Estaleiro Brasa
+359;Base Logística de Dutos
+360;Flexibrás Açu
+361;Porto Belo
+363;Terminal Porto Sul
+364;Terminal de Expedição de Grãos Portochuelo
+365;Terminal Bamin
+366;BTP
+367;TUP Intermoor - Base de Apoio Marítimo Intermoor Açú
+368;Ronav
+369;Estação Cujubinzinho
+370;Estação EAG - Bertolini
+371;Estação Juruti
+372;Estaleiro Jurong
+373;Porto Norte Capixaba
+374;Terminal Buritirama - Barcarena
+375;Estaleiro Locar
+376;Estaleiro Vard
+377;Estaleiro Aliança
+378;Estaleiro SRD
+379;Estaleiro Barcas S/A
+380;Estaleiro Chamon
+381;Estaleiro Mecanavi
+382;Estaleiro Strong
+383;Eisa RJ
+384;Estaleiro Sermetal
+386;Estaleiro H P
+387;TERFRON Itaituba
+388;LDC São Simão
+389;Socal
+390;Terminal Industrial Imetame
+391;G. C. Rodrigues
+392;PORTO EMAPA
+393;Amasa
+394;Rio Matapi
+395;Terminal Nov Flexibles
+396;Terminal Vila do Conde
+397;Terminal Petróleo Sabba Porto Velho
+398;TEPOVEL
+399;Petro Amazon
+400;LDC Pederneiras
+405;Nutripetro
+406;OSX
+407;Estaleiro Camorim
+408;RMB
+409;TUP Enseada Naval
+410;Hidrovias do Brasil Miritituba
+411;Estação Cianport Miritituba
+412;Petrobras Distribuidora Oriximiná-Pa
+413;Delima
+414;Porto do Demétrio
+415;J A Leite Navegação
+416;H. M. Q. de Almeida Construções
+417;Cruz Tavares Transportadora
+418;Bertolini Itaituba
+419;Posto Chada – Belém-PA
+420;C V Alves – Belém-PA
+421;Mil Manutenções E Comércio – Belém-PA
+423;Porto Eldorado
+424;Porto Praia Norte
+432;Comtrol
+433;Ipiranga Manaus
+436;Gelcinave Navegação
+445;Enaval - Engenharia Naval e Offshore
+446;Porto Morrinho
+447;Coari
+448;Van Oord
+451;Terminal MFX
+452;Marcmar
+453;Estaleiro ETP
+455;Terminal TGSC
+457;Terminal Cianport Santana
+458;Estação Caramuru
+459;Caramuru Alimentos São Simão
+460;Terminal Portuário da Glória - TPG
+461;J. F. de Oliveira Humaitá
+463;Porto da Feira do Produtor Rural
+464;IP4 Parintins
+465;Estaleiro São Raimundo
+466;Estaleiro TCE
+467;TCE Serviços
+469;Píer de Passageiros do Centro Histórico
+484;L P Moreira de Luna
+485;EBR
+489;Porto da JG
+490;Bravamar Serviços Marítimos Ltda
+491;Britânia
+494;Porto Samal
+495;HRT O&G Exploração E Produção de Petróleo
+497;Uote Transpetro
+498;Reicon Vitória do Xingu
+499;Reicon Itaituba
+500;TUP Zemax
+506;A.D.S. Reparos Navais
+507;Balsa Vitória
+508;Instalação Rudimentar L.A de Oliveira
+509;Mineração Rio do Norte - Rampa de Suprimentos
+510;Mineração Rio do Norte - Pátio de Toras
+511;TUP CESARI
+512;Volki
+514;Porto Veleiro Búzios
+515;Parque de Construção Submarina do Paraná
+516;Transale
+518;Porto Amazongás
+519;Terminal de Combustíveis Marítimos do Açu - TECMA
+520;Mineração Rio do Norte - Balsa Matuera
+521;Porto Dinízia
+522;Terminal de Múltiplo Uso 2
+523;Terminal de Múltiplo Uso 3
+524;Porto do Cimento
+525;"Unidade Misturadora de Porto Alegre "
+526;Terminal Portuário Brites
+527;Estaleiro VARD PROMAR
+528;Píer do Centro na Praia do Canto
+529;Porto Voyager
+531;Ponta Negra
+532;"Santa Vitória do Palmar "
+533;Base de Distribuição Secundária de Itaituba
+535;Terminal Portuário de São Luis
+536;S C Transportes LTDA
+537;F. H. de Oliveira Peixoto
+538;Brasil Logística Offshore e Estaleiro Naval
+539;Terminal Portuário da Nuclep
+540;Estaleiro Renave
+541;Centro de Embarcações do Comando Militar da Amazônia
+542;Instalação Portuária de Turismo
+544;CAIS COMERCIAL
+546;Cais Público
+547;"CAIS COMERCIAL "
+548;Cais Público
+549;Terminal de Passageiros
+550;Cais Arrendado
+551;Cais Público
+555;Cais Comercial
+556;Prysmian
+557;Terminal de Granéis Líquidos
+558;Cais de Paul
+560;Cais de Capuaba
+563;Torres Cais Público
+564;Porto Cheuan
+565;Armazém 01 / Galpão
+566;Terminal de Grãos
+567;"Pátio 2 "
+568;Pátio 3/4
+569;"Terminal de Graneis Sólidos "
+570;Armazém 05
+571;Armazém 06
+572;"Terminal Marítimo de Passageiros (Armazém 7) "
+573;"Terminal Marítimo de Passageiros (Armazém 8) "
+574;Armazém 09
+575;Armazém 10
+576;Terminal CCPN
+577;Terminal de Passageiros
+578;Terminal de Óleo
+579;TGL 3
+580;TGL 2 (Sabbá)
+581;TGL 1
+582;Rampa Ro-Ro
+583;Terminal de Múltiplo Uso -1
+584;Terminal de Granel Líquido
+585;Companhia Brasileira de Asfalto da Amazônia
+586;Ilha do Príncipe
+587;TVV
+588;Peiú
+589;TESC
+590;Belo Monte Logística de Terminal
+591;Terminal Ilha do Governador
+592;"Nidera Sementes "
+593;Terminal de Embarque Marítimo da Salina Diamante Branco
+595;Porto Encontro das Águas
+596;Brasbunker
+597;Cais Público
+598;PIER 01
+599;PIER 02
+600;Terminal de Açúcar - TA
+601;Armazém 11
+602;Armazém 12
+603;Armazém 13
+604;Armazém 14
+605;Armazém 15
+606;PIER 01
+607;PIER 02
+608;CMO Construção e Montagem Offshore S/A
+609;Peixaria Matrinxa
+610;Estaleiro Rio Tietê
+611;Aquavia
+612;CAÍS PÚBLICO
+613;CORREDOR DE EXPORTAÇÃO
+614;CAIS FERTILIZANTE
+615;PIER DA FOSPAR
+616;PIER DA PETROBRAS
+617;TCP
+618;TECHINT
+619;Sea Wolf Soluções Marítimas
+620;Cais de Múltiplos Usos - CMU
+621;Píer de Graneis Líquidos 1
+622;Píer de Graneis Líquidos 3A
+623;Cais 1
+624;Cais 4
+625;Bacia de Evolução - Porto Externo
+626;Bacia de Evolução - Porto Interno
+627;Tecon Suape
+628;Molhe
+629;Porto de Democracia
+631;Porto Democracia
+632;Píer Público
+633;Metasa SA Indústria Metalurgica
+634;Norte Log
+635;Terminal Intermodal de Conchas
+636;"Cais Comercial "
+638;Base Secundária Ipiranga de Porto Velho
+639;Cais Comercial de Atracação de Barcaças
+640;Sistema de Atracação de Navios - Dolphins
+641;Cais 5
+642;Píer de Graneis Líquidos 2
+643;Píer de Graneis Líquidos 3B
+644;Itaipava Itaituba
+646;Rio Amazonas Terminais e Empreendimentos
+647;Itaipava Icoaraci Belém
+648;Terminal Itaipava Santarém
+649;Campo Rico Fertilizantes Eireli
+650;Terminal Dock Brasil
+651;Porto De Itaituba
+652;Union Armazenagem e Operações Portuárias S/A (TEV)
+653;Ecoporto Santos S/A
+654;Libra Terminais S/A
+655;Cais Público - Ilha Barnabé
+656;Terminal de Produtos Gasosos (TPG)
+657;Terminal de Granéis Líquidos (TGL)
+658;Terminal de Granéis Sólidos (TGS)
+659;Cais Público - Saboó
+660;Multi-Rio T2
+661;ICTSI Rio Brasil 1
+662;Atracadouro Barra Sul
+663;Coari Pequi Rosneft Brasil
+664;Porto 3R
+665;ETC Estrada do Belmont
+666;Porto Trairi
+667;Porto Central Complexo Industrial e Portuário S.A.
+668;Unirios
+669;Ciagram Portos e Navegação da Amazônia
+670;Cais Público (Ocrim)
+671;Porto de Aracruz - SK Tecnologia Subaquatica Eireli
+672;TCP - DOLPHIN
+673;DOME - Terminais Portuários
+674;Petroleo Sabba S.A. (Manaus)
+675;TGB - Terminal Graneleiro da Babitonga
+676;Porto da Rio Preto
+677;TEAG - Terminal de Exportação de Açúcar do Guarujá
+678;Porto Brasilit
+679;TEG - Terminal Exportador do Guarujá
+680;ETC ADM Armazens Gerais São Simão
+681;TGS (Cargill)
+682;Rampa Fluvial
+683;Píer 100
+684;Dolfins de atracação 200
+685;Cais Fluvial 300
+686;Terminal Petrobras Paracuru
+687;Área de Fundeio
+688;"MFX DO BRASIL EQUIPAMENTOS DE PETROLEO LTDA "
+689;LOGUM LOGÍSTICA S.A
+690;INSTALAÇÃO PORTUÁRIA - PREFEITURA JURUTI
+691;Estaleiro Bibi Eireli
+692;Cais Público - Alamoa
+693;Cais Público - Valongo
+694;Cais Público - Paquetá
+695;Cais Público - Outeirinhos
+696;Cais Público - Macuco
+697;Porto Sousa Sobrinho
+698;Terminal Marítimo da Alemoa
+699;Deck Panorâmico Gold Mar
+700;Cais Público - Ponta da Praia
+701;T-37
+702;Santos Brasil
+703;Porto de Santo Antônio (IP4 Fernando de Noronha)
+704;TGG - Terminal de Granéis do Guarujá
+705;TERMAG - Terminal Marítimo do Guarujá
+706;Teaçu 1
+707;Porto Belnave I
+708;Teaçu 2
+709;Teaçu 3
+710;Porto da Sociedade Bíblica do Brasil
+711;Tranship Gradim
+712;Cais do Mercado de Peixes de Macaé
+713;Amarena Apoio Portuário Turismo e Reparo Naval
+714;Reicon Santana
+715;Estaleiro Guarujá I
+716;El Shadai
+717;Hermar Log
+718;Terminal de Outeiro
+719;Terminal de Miramar
+720;Cais Público
+721;Marinas do Porto
+722;Porto Amazonas
+723;Cais Público
+724;Associação dos Feirantes da Panair
+725;AJATO NAVEGAÇÃO LTDA
+726;Delima Belém
+727;Estaleiro Guarujá II
+729;Porto Unirios II
+730;"Navegação Nóbrega "
+733;Trapiche de Canasvieiras
+734;Reicon-Belém
+735;Instalação de turismo da Estância Balneária de Ubatuba
+736;Amazon Aço Indústria e Comércio Ltda
+737;Terminal Distribuidora Equador Manaus
+738;TNPM Anhembi
+739;TNPM Pederneiras
+740;Área de Fundeio
+741;"Navegação Rio Negro S/A "
+742;"Porto Nals Navegação Apoio Logístico e Serviços "
+744;Sindicato Rural de Santarém
+745;Cais Turístico da Vila
+746;COOP-ACAMDAF
+747;Bar Beira Rio
+749;Terminais Ponta Negra
+750;ATEM Miritituba
+751;Hidroviária Tapajós
+752;Subsea 7 do Brasil Serviços LTDA
+753;município de xingu
+754;Estação ADM Armazéns Gerais
+755;"Celso M. dos Santos – ME "
+756;Prefeitura Municipal de Breves-PA
+757;Trapiche Municipal de Cachoeira do Arari
+758;São Domingos, Comércio e Navegação Ltda
+759;W Chaves de Lima EIRELI- ME (Walmar Transportes)
+760;R. R. Cardoso Melo (Porto Melo)
+761;R. N. M. Barbosa Com. Navegação ME (Porto Aires)
+762;Porto Custódio - Belém
+763;Aquino e Morais Ltda (Porto Líder)
+764;Antônio Pereira de Souza Transportes - ME (Porto Perseverança)
+765;Rodofluvial Barcarena Ltda - ME (Porto Rodofluvial)
+766;Waldemar Navegação Ltda (Porto Waldemar)
+767;Tomé Prado Alves - ME
+768;Posto Aliança
+769;ETC São Simão (TNPM)
+771;Porto Águia e Posto Águia
+772;Terminal de Petróleo TPET/TOIL - Açu
+773;"Itaoca Offshore "
+774;Terminal Saint-Gobain Icoaraci
+775;Instalação Flutuante CELSE
+776;GF Transportes & Rep. Ltda
+777;S DA S DOS SANTOS EIRELI
+778;Porto de Itaóca
+779;Posto de Saúde Chiquinho Nabiça
+780;Novo Porto Terminais Multicargas e Logísticas LTDA
+781;Atracadouro da UFRA
+782;Terminal Hidroviário de Gurupá
+783;Terminal Portuário Novo Remanso
+784;Porto Custódio
+785;"Terminal Fluvial Turístico Praça Princesa Isabel "
+787;Porto do Grego
+788;"Palácio Dos Bares "
+789;Atlântica Norte
+790;Porto Luiz Walter
+791;Beconal
+792;Porto Bom Jesus
+793;Porto Oliveira Nobre
+794;Point do Açaí
+795;Porto Navegação São Domingos
+796;Posto D & E Comercio de Combustíveis Ltda
+797;Sabino de Oliveira Comércio e Navegação S.A. - SANAVE
+798;E V da Silva Serviços- ME
+799;Aguia Pesca II Comércio de Pescados LTDA
+800;Maar Navegação e Terminais Ltda
+801;Rampa de Acesso da Abramex Madeiras
+802;Terminal Hidroviário de Camará
+803;Estaleiro Juruá
+804;V. L. Navegação LTDA
+805;Flutuante Apoio Lady Min
+806;" DSN Engenharia e Indústria Naval Ltda"
+807;Porto Municipal de Faro
+808;Porto Municipal de Terra Santa
+809;Terminal Hidroviário de Almeirim
+810;Terminal Hidroviário de Vila Munguba
+811;Terminal Hidroviário de Monte Dourado
+812;Terminal Hidroviário de Vitória do Jari
+814;Terminal Boa Esperança Cametá
+815;Rampa de Santa Inês
+816;LSI - Logistica S.A.
+818;Estaleiro e Tornearia do Candinho
+819;Industria de Madeira São Tomaz Eireli - EPP
+820;Reicon Santarém
+822;Hidroport Serviços Marítimos Ltda - ME
+823;Coroa Grande Serviços Portuários
+824;Porto Brilhante
+825;Píer Terminal Janeth Dias
+826;I1
+827;Terminal Marítimo Comodoro Magalhães
+828;Píer Estação Santa Luzia
+829;Píer de Turismo da Vila do Abraão
+830;Píer de Transatlântico da Passagem de Cabo Frio
+831;Porto Santa Rosa
+832;B. M. Castro Eireli - EPP
+833;Porto São Francisco
+834;Rampa de Acesso da Lacarpex
+835;Trapiche do Gás
+837;Lunasub Náutica Ltda
+838;Estância STM
+839;Porto Socorro Carvalho
+840;Pipes Empreendimentos Ltda
+841;Jarumã Rodofluvial
+842;Itaipava S/A
+843;Estaleiro de Construção e Manutenção de Embarcações
+844;Marina da Glória
+845;Porto Romão
+846;Instalação Faros Indústria de Farinha de Ossos
+847;"Benedito Mutran e Cia "
+848;Porto Dourado
+849;Golar Power Latam
+850;Porto do Posto São Benedito
+851;Estaleiro Rio Maguari S/A
+852;Antônio F de Carvalho EPP
+853;Indústria de Esquadrias Barsa
+855;Atracadouro de Ferry-boat
+856;Terminal Hidroviário São Benedito
+857;Instalação de Turismo PDBS
+858;Posto Pompeia
+859;Porto Juarez Prates
+860;Porto Galo da Serra
+861;Unidade Misturadora de Canoas
+862;Porto de Itaituba da Caramuru Alimentos
+863;Terminal Portuário de Alcântara
+864;Trapiche de Icoaraci (Atracadouro público)
+865;IP4 Tabatinga
+866;IP4 Itacoatiara
+867;Porto Rodofluvial Barcarena
+868;Trapiche Municipal de Abaetetuba
+869;Trapiche Municipal de Baião
+870;Trapiche Municipal de Mocajuba
+871;Trapiche Municipal de Santa Cruz do Arari
+872;Porto Seguro
+873;Porto de Apoio W X L Queen
+874;Brasil Verde Esquadrias Eireli EPP
+875;Porto Prates
+876;Terminal Leomar
+877;Barra Sul Turismo Náutico
+878;Porto Caravelas
+879;Keppel Singmarine do Brasil
+880;Marques Pinto Navegação Ltda
+881;Estaleiro Maccarini LTDA
+882;Gilson Rafael Manzoli Cassini
+883;Porto do Trapiche Municipal
+884;Terminal de Regaseificação do Açu
+885;Terminal Cargill Itaituba
+886;Atracadouro de Ferry-Boat I
+887;Atracadouro de Ferry-Boat II
+888;Porto Macapá
+889;Oceânica Empresa de Apoio à navegação Ltda
+890;Porto AFC
+891;Porto Barros ou Paragás
+892;Porto Santa Efigenia
+893;Ipiranga Comércio e Serviços Eireli - EPP
+894;Estaleiro Helitec
+895;Estaleiro - Detroit Brasil
+896;Itahum Export
+897;Itaipava S/A
+898;Porto Lima Verde
+899;Terminal Boa Esperança Carapajó
+900;Instalação de apoio EBN Marajó
+901;Expresso Aliança Mudanças, Transportes e Serviços Ltda
+903;Porto de Apoio Amazon Woods
+904;Super Posto São Benedito
+905;R de Jesus Comércio de Madeitas Ltda
+906;PORTO LÍDER
+907;Henvil - Terminal Hidroviário de Belém (Icoaraci)
+908;Porto Rodofluvial Barcarena I
+909;Porto Leão do Marajó
+910;Bemar III
+911;Porto Fluvial de Muquém  de São Francisco
+912;Trapiche de Soure
+913;Reicon - Senador José Porfírio
+914;UTE Novo Tempo Barcarena
+915;Estaleiro Xpressboat
+916;Jarumã - Porto Arapari
+917;Sidiney Gomes
+918;Porto Amazônia Transportes
+919;Estaleiro Guarajá Máquinas
+920;Porto Juarez Prates II
+921;IP4 do Município de Autazes/AM
+923;IP4 do Município de Barreirinha/AM
+924;IP4 do Município de Benjamin Constant
+925;IP4 de Beruri
+926;IP4 de Boa Vista do Ramos
+927;IP4 de Borba
+928;IP4 de Canutama
+929;IP4 de Caracaraí
+930;IP4 de Carauari
+931;IP4 de Careiro de Várzea
+932;IP4 de Coari
+933;IP4 de Codajás
+934;IP4 de Eirunepê
+935;IP4 de Fonte Boa
+936;IP4 de Guajará
+937;IP4 de Humaitá
+938;Pontão Bons Amigos
+939;Pontão L J
+940;Pontão Quadros Filho
+941;Terminal Hidroviário de Cargas e Passageiros de Terra Santa
+942;IP4 de Ipixuna
+943;IP4 de Iranduba
+945;IP4 de Itamarati
+946;IP4 de Itapiranga
+947;"IP4 de Manacapuru "
+948;IP4 de Manaquiri
+949;IP4 de Manicoré
+950;IP4 de Maués
+951;IP4 de Nhamundá
+952;IP4 de Nova Olinda
+953;IP4 de Novo Airão
+954;IP4 de Novo Aripuanã
+955;IP4 de Parintins
+956;IP4 de Cai N' água (Porto Velho)
+957;IP4 de Santa Isabel do Rio Negro
+958;"IP4 de São Raimundo "
+959;IP4 de São Sebastião do Uatumã
+960;IP4 de São Paulo de Olivença
+962;IP4 de Tapauá
+963;IP4 de Tonantins
+964;IP4 de Urucará
+965;IP4 de Urucurituba
+966;Terminal Hidroviário de Passageiros e Cargas de Faro
+967;Itaipava - Manaus
+968;Terminal Hidroviário de Prainha/PA
+969;Terminal Hidroviários de Cargas e Passageiros de Santarém
+970;Porto da Prainha
+971;Marina do Gelson
+972;Navemestra Serviços de Navegação Ltda
+973;Porto R S Lima
+974;Porto Olinda
+975;ERAM ESTALEIRO RIO AMAZONAS
+976;EASA-ESTALEIROS AMAZÔNIA S.A.
+977;Porto Linave
+978;Porto de Apoio Madeiras Santa Maria
+979;Porto NL
+980;Porto Silnave Belém
+981;Porto Macacaúba
+982;Porto Santa Maria
+983;Norte Marine
+984;Porto Gelo Friomar
+985;Instalação de Apoio ao Transporte Aquaviário SC Carvalho
+986;Terminal de Uso Privado de Macau
+987;TERMINAL DE MACAPA
+988;Tup da Salina Francisco Menescal
+989;Terminal de Matérias Primas
+990;Balsa Cuiabá
+992;Mar Azul
+993;Potassio do Brasil
+994;Porto de Pindobal
+995;Rampa Samal
+996;Terminal Hidroviário de Cargas e Passageiros de Almeirim
+997;Terminal de Munguba
+998;Base de Oriximiná - BARIX
+999;ETC Brasil Amarras
+1000;TUP ANGRA DIESEL
+1002;Rampa de Acesso Cigana
+1003;Nova Era Industria Comércio Exportação de Madeira Ltda - ME
+1004;Terminal Hidroviário de Passageiros e Cargas de Alenquer
+1005;PROMAP - PRODUTOS DE MADEIRA DO PARA LTDA
+1006;ABI Miritituba
+1007;Administradora de Bens de Infraestrutura Ltda. - ABI
+1008;Porto Jiquiriqui
+1010;Trapiche de Icoaraci
+1011;SAGA REBOCADORES & SERVICOS MARITIMOS LTDA
+1012;Navegação Cunha Ltda.
+1013;ERAM - Estaleiro Rio Amazonas
+1014;Terminal Hidroviário da Praça Princesa Isabel
+1015;Terminal Hidroviário de Laranjal do Jarí
+1017;Associação das Comunidades Remanescentes de Quilombos Gurupá
+1018;Tapajós Administração Portuária Ltda
+1019;Hidrovia Tapajos II
+1020;Terminal Dome
+1021;Hidrovia Tapajos III
+1022;Estaleiro Oxnaval
+1023;Rio Doce Madeiras Ltda
+1024;TECHNIP BRASIL ENGENHARIA INSTALACOES E APOIO MARITIMO
+1025;Mac Laren Operações Offshore
+1026;Merlim
+1027;Petróleo Sabbá - Terminal Manaus
+1028;Atem's Distribuidora de Petróleo
+1029;Porto Afonso
+1030;Rampa de acesso da empresa Madeireira J & Y Ltda.
+1031;Instalação Portuária para Transbordo de Combustível
+1032;JDS Turismo
+1033;Brasbunker São Gonçalo
+1034;CODEPE
+1035;Rampa de Apoio Atividade de Pequeno Porte
+1036;Navegação Mady
+1037;Rampa de Acesso para Carga e Descarga
+1038;Bertolini Paragominas
+1039;Hidroviário Erlonav
+1040;Instalação F DE ASSIS
+1041;TUP COFCO
+1042;F. J. DA C. S. DE LIMA
+1043;GC DE SOUZA E CIA LTDA
+1044;V ALMEIDA DA SILVA
+1045;C E COMERCIO VAREJISTA DE COMBUSTIVEIS LTDA
+1046;Posto Rio V
+1047;Phoenix Tour
+1048;Marina de Itaparica
+1049;A M L MOREIRA LUNA
+1050;EMPRESA DE NAVEGAÇÃO A R TRANSPORTE LTDA
+1051;Porto Bom Jesus
+1052;Pontão Coari
+1053;Rampa para embarque e desembarque de produtos florestais da empresa Comercial Manoel Passos Eireli
+1054;Terminal Dock Brasil
+1055;CPSM - Centro Portuário de São Mateus
+1056;Terminal Portuário Estrela
+1057;Porto da Balsa
+1058;EDLOG & ZPORT OPERACÕES PORTUÁRIAS
+1059;Registro Bertolini Santarém  - Maica
+1060;Porto Fluvial de Ladário
+1061;Pontão Torres I
+1062;Oliveira Energia S.A.
+1063;Pontão Flutuante Dona Cândida
+1064;CS Construção e Navegação
+1065;Iracilde Feitosa Costa
+1066;Porto AR Transporte
+1067;Terminal Rodofluvial de Belém - Travessia por Balsa
+1068;Bertolini Itaituba
+1069;Cais Estrela
+1070;Pontão Menezes
+1071;COMINA EMPRESA DE MINERAÇÃO EIRELI
+1072;Porto do Gelo
+1073;Chibatão Navegação e Comércio Ltda - TUP Alfandegado
+1074;Administração de Bens de Infraestrutura - ABI
+1075;Rampa de Apoio para a empresa Eco Brasil Florestal  EIRELI
+1076;Madeireira Madeval Ltda ME
+1077;Madeireira São José Eireli
+1078;Grão Pará Naval
+1079;Auto Posto LS LTDA
+1080;Assis materiais de Construção
+1081;Cemopar Cerâmica Moderna de Parintins Ind. e Com. LTDA
+1082;Bahia Terminais
+1083;Benevides Madeiras
+1084;Serraria Boa Vista
+1085;Porto
+1086;Hermasa Navegação da Amazônia Ltda (Estaleiro)
+1087;Petróleo Sabbá - Itaituba
+1088;"Terminal LDC Tapajós "
+1089;Cargill Agrícola S.A. (ETC Miritituba/PA)
+1090;Petróleo Sabbá - BSMI
+1091;Arapari - Belém
+1092;Homem de Nazaré
+1093;LIMPAR NAVEGAÇÃO E SERVIÇOS EIRELI
+1094;Esquivel & Marques Ltda.
+1095;Terminal Portuário Paraíso
+1096;Docas Fluvial de Porto Murtinho
+1097;BELOV OFF-SHORE INDUSTRIAL
+1098;Porto do Alci
+1099;Rampa de apoio M G Agroflorestal
+1100;Porto Fortimber
+1101;Navegações Unidas Tapajós LTDA
+1102;Porto Prainha
+1103;TUP da Salina Guanabara
+1104;Registro Bertolini Miritituba
+1105;Terminal Cimbagé (Intercement)
+1106;RAMPA DE APOIO PARÁ TIMBER
+1107;CANTEIRO MARÍTIMO DE MAPELE - ESTALEIRO BELOV
+1108;RAMPA DE APOIO INDUMEX
+1109;União Transportes
+1110;Terminal Hidroviário de Cargas e Passageiros de Santana do Tapará
+1111;Terminal Hidroviário de Cargas e Passageiros de Curuá
+1112;TOP - Tapajos Operador Portuário
+1113;Terminal de Granéis Líquidos do Amapá - TGLA
+1114;PONTÃO SABINO COMBUSTÍVEIS
+1115;WSAM LTDA. – ME
+1116;Porto Irmãos Santana
+1117;E B Braulio Construções LTDA
+1118;Porto Silnave Santana
+1119;Terminal Baía de Todos os Santos - TBTS
+1120;PORTO ACARI MIRITITUBA
+1121;TERMINAL DE REGASEIFICAÇÃO DE GNL DE SÃO PAULO S.A – TRSP
+1122;M C Navegação
+1123;Porto do DEER
+1124;R MACIEL FERREIRA (Rua Nova)
+1125;R MACIEL FERREIRA (Rio Branco)
+1126;NEWTON W. SALOMAO - ME
+1127;B. M. NAVEGACOES LTDA
+1128;NEWTON W. SALOMAO (2)
+1129;IP4 de Vila Amazonia
+1130;Instalação Portuária Pública de Pequeno Porte – IP4 – de Alvarães
+1131;Instalação Portuária Pública de Pequeno Porte – IP4 – de Japurá
+1132;IP4 de Guajará-Mirim
+1133;NORTE LOG LTDA
+1134;JACKSON MADEIRO PINHEIRO
+1135;CLP PETROLEO
+1136;Pontão Souza
+1137;Porto Tapajós RZ
+1138;Estaleiro Maar Navegação e Terminais Ltda
+1139;IP4 de Silves
+1140;Porto Mamuru
+1141;Porto Sales Nave
+1142;Tatus I
+1143;Tatus II
+1144;Amazonia florestal
+1145;Porto Acari Miritituba
+1146;Salinor Salinas do Nordeste S.A. (Unidade Unidos)
+1147;Pontão Amazônia
+1148;Pontão Herison II
+1149;Pontão Manaus
+1150;Pontão Rio Negro V
+1151;EMAM - Emulsões e Transportes LTDA
+1152;Superpesa
+1153;Posto Deus é Fiel II
+1154;Retiro Primavera
+1155;Terminal de Uso Privado e Estação de Transbordo de Cargas não perigosa - juzante barragem
+1156;Porto Ze das Neves
+1157;Porto de Apoio
+1158;Gold Fish
+1159;"ARROZAL ESTALEIRO "
+1160;Rampa de Apoio Mapara
+1161;Posto Cidade de Portel
+1162;Terminal Hidroviário Domingos de Moura Rebelo
+1163;Porto São Domingos (Portel-PA)
