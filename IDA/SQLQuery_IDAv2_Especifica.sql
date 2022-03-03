@@ -1,7 +1,7 @@
 USE DBPRDIDAV2
 GO
 
-SELECT CDInstalacaoPortuaria, IDTipoAtributo, NOAtributoQuestionario, NRPeso, NRIndicadorEspecificoQuestionario, NRCategoriaQuestionario, NRIndicadorGlobalQuestionario, NOCategoriaQuestionario, NOAvaliacao FROM TBResposta
+SELECT CDInstalacaoPortuaria, IDTipoAtributo, NOAtributoQuestionario, NRPeso, NRIndicadorEspecificoQuestionario, NRCategoriaQuestionario, NRIndicadorGlobalQuestionario, NOCategoriaQuestionario, NOAvaliacao, IDIndicadorEspecifico, NOTituloIndicadorEspecificoQuestionario FROM TBResposta
 INNER JOIN TBAtributoQuestionario
 ON TBAtributoQuestionario.IDAtributoQuestionario = TBResposta.IDAtributoQuestionario
 INNER JOIN TBIndicadorEspecificoQuestionario
