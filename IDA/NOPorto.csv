@@ -1,0 +1,337 @@
+CDTriGrama;NOPorto
+100;Plataforma Marítima
+200;Terminais Interiores
+270;ANHEMBI
+365;Terminal Floresta
+366;Terminal São Miguel
+367;TERMINAL FAZENDA SÃO JOAQUIM
+368;ECLUSA TIETÊ MONTANTE
+369;Usina Diamante
+370;Usina Pioneiros
+371;Santa Terezinha
+372;Eclusa Tietê Jusante
+373;MUNDO NOVO
+374;São Pedro
+375;Terra Roxa
+376;Vitória do Xingu
+377;Salvadorzinho
+378;Ilha das Flores
+379;Rolim de Moura
+380;Arapari - Barcarena
+381;Terminal Hidroviário João Alves Nogueira
+382;Porto Lawton
+383;Rio Jaburuzinho
+384;Santo Antônio - Breves
+385;Tajapuru
+386;Jacaré Grande
+387;São Joaquim
+388;Trapiche de Cotijuba
+389;Terminal Hidroviário de Curuá
+390;Surpresa
+391;Forte Príncipe
+392;Macapá - Passageiros
+393;Pedrinhas
+394;Laranjeiras
+395;Trapiche Hidroviário de Ponta de Pedras
+396;Santo Antônio
+397;Pedras Negras
+398;Pau D’óleo
+901;Bacia Sedimentar do Ceará
+902;Bacia Sedimentar da Foz do Amazonas
+903;Bacia Sedimentar Pará-Maranhão
+904;Bacia Sedimentar Potiguar
+905;Bacia Sedimentar Pernambuco-Paraíba
+906;Bacia Sedimentar SEAL
+907;Bacia Sedimentar de Jacuípe
+908;Bacia Sedimentar de Camamu-Almada
+909;Bacia Sedimentar do Recôncavo
+910;Bacia Sedimentar de Jequitinhonha
+911;Bacia Sedimentar de Cumuruxatiba
+912;Bacia Sedimentar de Mucuri
+913;Bacia Sedimentar do Espírito Santo
+914;Bacia Sedimentar de Pelotas
+915;Bacia Sedimentar de Barreirinhas
+AAI;Arraias
+AAX;Araxa 
+ADR;Angra dos Reis 
+AFU;Afuá
+AJU;Aracaju 
+ALQ;Alegrete 
+ANA;Ananindeua 
+ANT;Antonina
+APS;Anapolis 
+APU;Apucarana 
+ARA;Araucaria
+ARB;Aratu 
+ARE;Areia Branca 
+ARS;Aragarcas 
+ATM;Altamira 
+AUC;Augusto Côrrea (Novo)
+AUX;Araguaina 
+BDC;Barra Do Corda 
+BE1;Belém - IP4
+BEL;Belém
+BGU;Biguaçu
+BGV;Bento Goncalves 
+BGX;Bage 
+BHZ;Belo Horizonte 
+BNU;Blumenau
+BPS;Porto Seguro
+BR3;FPSO Cidade de Ilha Bela
+BR5;FPSO Cidade de Maricá
+BR6;FPSO Cidade de Saquarema
+BR7;FPSO Cidade de Caraguatatuba MV27
+BRB;Barreirinhas 
+BRZ;FPSO Cidade de Mangaratiba
+BSB;Brasilia 
+BSS;Balsas
+BVB;Boa Vista
+BVM;Belmonte 
+BVS;Breves
+CAC;Cascavel 
+CAM;Bacia Sedimentar de Campos
+CAU;Caruaru 
+CAV;Careiro da Várzea (Novo)
+CAW;Campos 
+CBO;Cubatao
+CCI;Concordia 
+CCX;Cáceres
+CDJ;Conceição do Araguaia 
+CDO;Cabedelo 
+CGB;Cuiaba 
+CGH;Congonhas Apt/Sao Paolo 
+CGR;Campo Grande 
+CI1;Coari (Novo)
+CIZ;Coari
+CKO;Cornelio Procopio 
+CLP;Campo Limpo Paulista 
+CMC;Camocim 
+CMG;Corumbá
+CPQ;Campinas 
+CPU;Cururupu 
+CPV;Campina Grande 
+CRI;Caracarí
+CWB;Curitiba
+CXJ;Caxias Do Sul
+CZB;Cruz Alta 
+CZS;Cruzeiro Do Sul 
+DIQ;Divinopolis 
+DNO;Dianopolis 
+ERM;Erechim 
+ETL;Estrela
+F11;FPSO Brasil
+F12;FPSO PETROBRAS 66
+F13;FPSO PIONEIRO DE LIBRA
+F15;FPSO Petrojarl
+F16;FPSO PETROBRAS 69
+F17;FPSO PETROBRAS 67
+F19;FPSO Petrobrás 68
+F20;FPSO PETROBRAS 54 
+F21;FSO Cidade de Macaé MV15
+F22;FPSO P-62
+F23;FPSO CIDADE DE ITAJAI
+F24;FPSO P-70
+F25;FPSO P-75
+F30;FPSO P-74
+F32;FPSO P-76
+F33;FPSO P-77
+F39;FPSO BRAVO
+FAR;Faro
+FCI;FPSO Cidade de Itaguaí
+FEN;Fernando de Noronha 
+FLN;Florianopolis 
+FNO;Forno
+FOR;Fortaleza 
+FP1;FPSO Cidade de Paraty
+FP2;FPSO Rio das Ostras
+FP3;FPSO Cidade de Sao Paulo
+FP4;FPSO Cidade de Angra dos Reis
+FP5;FPSO Espírito Santo
+FP6;FPSO Frade
+FP7;FPSO Fluminense
+FP8;FPSO Polvo
+FP9;FPSO Peregrino
+GEB;Gebig 
+GEL;Santo Angelo 
+GIG;Galeao Apt/Rio de Janeiro 
+GJM;Guajará Mirim 
+GRU;Guarulhos Apt/Sao Paolo 
+GUJ;Guaratingueta 
+GYN;Goiania 
+IBB;Imbituba 
+IBT;Ibotirama
+IDO;Santa Isabel Do Morro 
+IGI;Itaguaí
+IGU;Iguassu Falls 
+IJU;Ijui 
+IMP;Imperatriz 
+IOS;Ilhéus
+IQI;Itaqui
+ITA;Itacoatiara
+ITB;Itaituba
+ITC;Itacoatiara
+ITJ;Itajaí
+ITN;Itabuna 
+JAG;Jaguarão
+JCB;Joacaba 
+JDF;Juiz De Fora 
+JDO;Juazeiro Do Norte 
+JOI;Joinville
+JPA;Joao Pessoa 
+JUR;Juruti
+LAG;Laguna
+LAJ;Lajes 
+LDB;Londrina 
+LDR;Ladário
+LVB;Livramento 
+MAB;Marabá
+MAO;Manaus 
+MCP;Santana
+MCU;Macau 
+MCZ;Maceió
+MDD;Madre De Deus 
+MEA;Macae 
+MGF;Maringa 
+MGU;Munguba 
+MOC;Montes Claros 
+MTE;Monte Alegre 
+MVF;Mossoro 
+NAT;Natal 
+NNU;Nanuque 
+NTR;Niterói
+NVT;Navegantes 
+OBI;Obidos 
+PAV;Paulo Afonso 
+PCL;Portocel 
+PEO;PRESIDENTE EPITÁCIO
+PET;Pelotas
+PFB;Passo Fundo 
+PGZ;Ponta Grossa 
+PHA;Prainha
+PHB;Parnaiba 
+PHI;Pinheiro 
+PIA;Piaçaguera
+PLA;Paulinea
+PMO;Porto Miguel de Oliveira
+PNA;Panorama
+PNB;Porto Nacional 
+PNG;Paranaguá
+PNS;Pederneiras
+PNZ;Petrolina
+POA;Porto Alegre 
+POU;Ponta do Ubu 
+PPB;Presidente Prudente 
+PSW;Passos 
+PTO;Pato Branco 
+PVH;Porto Velho 
+PVI;Paranavai 
+QAB;Brusque
+QAD;Guarapuava 
+QAH;Alcantara 
+QAU;Bebedouro 
+QAV;Benjamin Constant 
+QBD;Barra Do Pirai 
+QBN;Barra Mansa 
+QBX;Sobral 
+QCC;Camacari 
+QCD;Campo Bom 
+QCF;Birigui 
+QCG;Cataguases 
+QCJ;Botucatu 
+QCK;Cabo Frio 
+QCN;Canela 
+QCP;Currais Novos 
+QCX;Sao Caetano Do Sul 
+QDB;Cachoeira do Sul 
+QDC;Dracena 
+QDF;Conselheiro Lafaiete 
+QDL;Guarapari 
+QDO;Icoaraci 
+QDP;Dom Pedrito 
+QDQ;Duque de Caxias
+QGA;Guaira 
+QGC;Lencois Paulista 
+QGF;Monte Negro 
+QGR;Pouso Alegre 
+QHB;Piracicaba 
+QHE;Sao Bento Do Sul 
+QHF;Sao Sebastiao Do Cai 
+QHG;Sete Lagoas 
+QHL;Castanhal 
+QHT;Terezopolis 
+QHV;Novo Hamburgo
+QID;Tres Coracoes 
+QIG;Iguatu 
+QIH;Tres Rios 
+QJA;Jaragua Do Sul 
+QJO;Campos Do Jordao 
+QLB;Lajeado 
+QLL;Sao Leopoldo 
+QMF;Mafra 
+QMI;Mogi Das Cruzes 
+QNE;Rio Negrinho 
+QNS;Canoas 
+QOC;Osasco 
+QPE;Petropolis 
+QPS;Pirassununga 
+QRP;Gramado 
+QRU;Rio Do Sul 
+QRZ;Resende 
+QSB;Sao Bernardo Do Campo 
+QSC;Sao Carlos 
+QSD;Sao Goncalo 
+QSE;Santo Andre 
+QSJ;Sao Joao Del Rei 
+QVB;Uniao Da Vitoria 
+QVR;Volta Redonda 
+RAO;Ribeirao Preto 
+RBR;Rio Branco
+RCH;Barra do Riacho
+RDC;Redencao 
+REC;Recife 
+RIA;Santa Maria 
+RIG;Rio Grande 
+RIO;Rio de Janeiro
+ROS;Rosana
+SAL;Salinas (Rio Grande do Norte)
+SAN;Santana (Macapá)
+SAO;Sao Paulo 
+SAS;Bacia Sedimentar de Santos
+SFS;São Francisco do Sul
+SHL;Santa Helena - PR
+SJK;Sao Jose dos Campos 
+SLV;Salvaterra
+SLZ;Sao Luiz 
+SNH;Santa Helena
+SOS;São Simão
+SSA;Salvador
+SSO;São Sebastião
+SSZ;Santos 
+ST1;Santarém (Orla)
+STM;Santarém
+STZ;Santa Terezinha 
+SUA;Suape 
+TB1;Tabatinga (Novo)
+TBT;Tabatinga 
+TET;Termisa Terminal 
+TFF;Tefé
+THE;Teresina
+TMT;Trombetas 
+TOW;Toledo 
+TPC;Terminal Portuário do Pecém
+TQR;Tequimar
+TRM;Tramandai
+TUB;Porto de Tubarao - ES
+TUT;Tutóia 
+UBA;Uberaba 
+UBT;Ubatuba 
+UDI;Uberlandia 
+UMU;Umuarama 
+URG;Uruguaiana 
+URR;Uruará
+VCP;Viracopos Apt/Sao Paolo 
+VDC;Vila do Conde
+VIX;Vitória
+VOT;Votuporanga 
+XAP;Chapeco 
+ZZZ;Não Identificado
